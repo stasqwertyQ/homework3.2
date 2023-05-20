@@ -1,0 +1,166 @@
+.footering {
+    width: 1600px;
+        height: 262px;
+        margin-left: -10px;
+        margin-top: 1615px;
+        background: #2F303A;
+}
+
+
+.spaning---2 {
+    font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 31px;
+        letter-spacing: 0.03em;
+        color: white;
+}
+
+.spaning {
+    font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 31px;
+
+    
+        letter-spacing: 0.03em;
+color: #2196F3;
+}
+
+
+.paragraffff {
+position: absolute;
+    width: 145px;
+    height: 31px;
+    left: 215px;
+    top: 1688px;
+}
+
+
+
+.heding--3 {
+position: absolute;
+    width: 231px;
+    height: 21px;
+    left: 215px;
+    top: 1739px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+}
+
+
+
+.HEEEding--3 {
+position: absolute;
+width: 231px;
+height: 21px;
+left: 215px;
+top: 1769px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+
+
+letter-spacing: 0.03em;
+
+color: rgba(255, 255, 255, 0.6);
+
+}
+
+
+
+.hediing--3--1 {
+    position: absolute;
+        width: 231px;
+        height: 21px;
+        left: 215px;
+        top: 1799px;
+    
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+    
+        letter-spacing: 0.03em;
+    
+        color: rgba(255, 255, 255, 0.6);
+}
+
+
+.joing--p {
+    position: absolute;
+        width: 116px;
+        height: 16px;
+        left: 516px;
+        top: 1703px;
+    
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+    
+        color: #FFFFFF;
+}
+
+
+
+
+.insta {
+position: absolute;
+    left: 526px;
+    top: 1740px;
+}
+
+.insta:hover {
+color: yellow;
+}
+
+.twiter {
+    position: absolute;
+        left: 560px;
+        top: 1740px;
+}
+
+.twiter:hover {
+    color: yellow;
+}
+
+
+.facebook {
+    position: absolute;
+        left: 590px;
+        top: 1740px;
+}
+
+.facebook:hover {
+    color: yellow;
+}
+
+
+.linkidin {
+    position: absolute;
+        left: 618px;
+        top:  1740px;
+}
+
+
+.linkidin:hover {
+color: yellow;
+}
